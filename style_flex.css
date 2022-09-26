@@ -12,17 +12,17 @@ section{
 }
 
 .premiere{
-    width: 50%;
+    width: 56%;
     height: auto;
 }
 
 .seconde{
-    width: 16%;
+    width: 14%;
     height: auto;
 }
 
 .troisieme{
-    width: 34%;
+    width: 30%;
     height: auto;
 }
 
@@ -46,14 +46,20 @@ section{
 
 .d1{
     background-color: aqua;
+    height: 25vh;
+    width: 25%;
 }
 
 .d2{
     background-color: red;
+    height: 25vh;
+    width: 25%;
 }
 
 .d3{
     background-color: yellowgreen;
+    height: 25vh;
+    width: 50%;
 }
 
 .d4{
@@ -67,18 +73,26 @@ section{
 
 .d6{
     background-color: silver;
+    height: 25vh;
+    width: 75%;
 }
 
 .d7{
     background-color: gold;
+    height: 25vh;
+    width: 25%;
 }
 
 .d8{
     background-color: purple;
+    height: 25vh;
+    width: 50%;
 }
 
 .d9{
     background-color: maroon;
+    height: 25vh;
+    width: 50%;
 }
 
 .d10{
