@@ -10,7 +10,7 @@ section{
     width: 100%;
     display: grid;
     grid-template-columns: 14% 14% 14% 14% 14% 15% 15%;
-    grid-template-rows: 25vh 25vh 25vh 25vh;
+    grid-template-rows: 20vh 20vh 40vh 20vh;
     background-color: gray;
 }
 
